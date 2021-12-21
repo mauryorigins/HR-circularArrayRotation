@@ -1,13 +1,11 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
-import sockMerchant from './sockMerchant';
+// Source: https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true
+import pageCount from './pageCount';
 
 function main() {
   console.log('---------- Cool Programing ----------\n');
-  const testNumber = 9;
-  const testArray = [10, 20, 20, 10, 10, 30, 50, 10, 20];
-  const result = sockMerchant(testNumber, testArray);
+  const result = pageCount(5, 4);
   console.log('Result: ', result);
 }
 
