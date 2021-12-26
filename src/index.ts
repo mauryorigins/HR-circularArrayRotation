@@ -1,13 +1,13 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true
-import designerPdfViewer from './designerPdfViewer';
+// Source: https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true
+import angryProfessor from './angryProfessor';
 
 function main() {
   console.log('---------- Cool Programing ----------\n');
-  const testAbc = [1, 3, 1, 3, 1, 4, 1, 3, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7];
-  const testWord = 'zaba';
-  const result = designerPdfViewer(testAbc, testWord);
+  const testArr = [0, -1, 2, 1];
+  const testS = 2;
+  const result = angryProfessor(testS, testArr);
   console.log('Result: ', result);
 }
 

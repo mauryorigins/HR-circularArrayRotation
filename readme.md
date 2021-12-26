@@ -1,5 +1,5 @@
 # ------ Answer of excercie ------
-  https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true
+  https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true
 
 ## System requirements:
 - node 11 or superior
