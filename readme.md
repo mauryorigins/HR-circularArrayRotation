@@ -1,5 +1,5 @@
 # ------ Answer of excercie ------
-  https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true
+  https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true
 
 ## System requirements:
 - node 11 or superior

@@ -1,11 +1,11 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true
-import beautifulDays from './beautifulDays';
+// Source: https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true
+import viralAdvertising from './viralAdvertising';
 
 function main() {
   console.log('---------- Cool Programing ----------\n');
-  const result = beautifulDays(20, 23, 6);
+  const result = viralAdvertising(5);
   console.log('Result: ', result);
 }
 
